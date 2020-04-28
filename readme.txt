@@ -3,7 +3,7 @@ Git is free software distributed under the GPL.
 Git tracks changes of files.
 2020-04-28 11:42:00
 <<<<<<< HEAD
-Creating a new branch is quick and simple.
+Creating a new branch is quick
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
